@@ -3,4 +3,3 @@ st.o
 x.o
 *.orig
 *.rej
-*.diff
