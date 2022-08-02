@@ -4,6 +4,13 @@ https://st.suckless.org/
 
 Font: https://www.jetbrains.com/lp/mono/
 
+## Keybindings
+
+| Keybinding | Description |
+|------------|-------------|
+| `ctrl+shift+return` | open new terminal in CWD |
+| `alt+up` / `alt+down` | scroll up / down |
+
 ## Patches
 
 * [anysize](https://st.suckless.org/patches/anysize/)
