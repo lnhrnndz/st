@@ -20,3 +20,4 @@ Font: https://www.jetbrains.com/lp/mono/
 * [newterm](https://st.suckless.org/patches/newterm/)
 * [scrollback](https://st.suckless.org/patches/scrollback/)
 * [ligature support](https://st.suckless.org/patches/ligatures/)
+* [resize without cutting off text](https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff)
