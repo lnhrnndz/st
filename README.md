@@ -19,3 +19,4 @@ Font: https://www.jetbrains.com/lp/mono/
 * [xresources with reload signal](https://st.suckless.org/patches/xresources-with-reload-signal/)
 * [newterm](https://st.suckless.org/patches/newterm/)
 * [scrollback](https://st.suckless.org/patches/scrollback/)
+* [resize without cutting off text](https://github.com/nimaipatel/st/blob/master/patches/7672445bab01cb4e861651dc540566ac22e25812.diff)
